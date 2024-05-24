@@ -3,5 +3,6 @@
     "url": "https://spinroot.com/spin/Src/pc_spin651.zip",
     "bin": "spin.exe",
     "homepage": "https://spinroot.com/spin/whatispin.html",
+    "license": "BSD 3",
     "hash": "cbd0eb7ea3a6dc2488be7d23b050f75ac9860cf47ae2662e725bc0b6da84ecdf"
 }
