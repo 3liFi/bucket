@@ -4,8 +4,6 @@
     "license":  "",
     "extract_dir":  "hashcheck.ps1",
     "url":  "https://github.com/3liFi/bucket/blob/master/apps/hashcheck.zip",
-    "depends":  "",
-    "homepage":  "",
     "hash":  "a62d8af7324e287d6b2ebb1e7e4e4f66b3623270b9ce54aaecd8225507580e2e",
     "bin":  "hashcheck.ps1"
 }
