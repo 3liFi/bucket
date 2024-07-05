@@ -2,7 +2,6 @@
     "version":  "1.0",
     "description": "A powershell script to verify hashes.",
     "license":  "",
-    "extract_dir":  "hashcheck.ps1",
     "url":  "https://github.com/3liFi/bucket/raw/master/apps/hashcheck.ps1",
     "hash":  "5c9e0c3e92ffc263e8fa14e48ebeba29c19638e67c7dd5471f7bab6c1bee8f2f",
     "homepage": "https://github.com/3liFi/bucket",
